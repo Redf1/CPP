@@ -1,2 +1,2 @@
-# Hola-C-
+# Hola-C++
 Aprendiendo C++
